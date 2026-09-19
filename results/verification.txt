@@ -1,0 +1,15 @@
+MATLAB: 25.1.0.2943329 (R2025a)
+HB_residual_A = 2.25510279933e-18
+LO_waveform_relative_rms = 7.24404073695e-07
+IF_complex_relative_error = 4.80204625406e-05
+small_signal_waveform_relative_rms = 0.00643139182396
+K31_to_K47_IF_relative_change = 2.55429819278e-08
+N17_to_N23_IF_relative_change = 1.70529991291e-06
+M2048_to_M4096_IF_relative_change = 8.86943266514e-15
+TD_tolerance_IF_relative_change = 1.63023035294e-07
+no_LO_IF_peak_V = 7.67803586928e-22
+jacobian_directional_relative_error = 2.16997454806e-09
+IF_peak_V = 0.000255218351931
+IF_phase_deg = 179.313199457
+conversion_gain_dB = -18.8514620455
+All stated verification thresholds passed.
